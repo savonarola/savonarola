@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ilia Averianov&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 303, Total Commits  : 9450, Total PRs: 783, Total Issues: 21, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 303, Total Commits  : 9450, Total PRs: 783, Total Issues: 21, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >16</text>
     </g>
   </g>
     </svg>
