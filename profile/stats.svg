@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ilia Averianov&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 305, Total Commits  : 9525, Total PRs: 798, Total Issues: 22, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 305, Total Commits  : 9525, Total PRs: 800, Total Issues: 22, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.848584952639012;
+        stroke-dashoffset: 24.84855799884528;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >798</text>
+      >800</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
